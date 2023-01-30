@@ -1,0 +1,141 @@
+Depositos  
+  Deposito 0
+    Deposito 0 - 0. Arcos: 6
+Bahia
+480 - 720
+Distancia 60
+Bahia
+960 - 1200
+Distancia 540
+Bahia
+480 - 720
+Distancia 60
+Bahia
+960 - 1200
+Distancia 540
+Bahia
+480 - 720
+Distancia 60
+Bahia
+960 - 1200
+Distancia 540
+    Deposito 0 - 1. Arcos: 0
+Bahias
+  Bahia 0
+    Bahia 0 - 0 . Arcos: 5
+Deposito
+0 - 1260
+Distancia 60
+Cliente
+540 - 660
+Distancia 60
+Cliente
+1020 - 1140
+Distancia 540
+Cliente
+540 - 660
+Distancia 60
+Cliente
+1020 - 1140
+Distancia 540
+    Bahia 0 - 1 . Arcos: 2
+Cliente
+1020 - 1140
+Distancia 60
+Cliente
+1020 - 1140
+Distancia 60
+  Bahia 1
+    Bahia 1 - 0 . Arcos: 3
+Deposito
+0 - 1260
+Distancia 60
+Cliente
+540 - 660
+Distancia 60
+Cliente
+1020 - 1140
+Distancia 540
+    Bahia 1 - 1 . Arcos: 1
+Cliente
+1020 - 1140
+Distancia 60
+  Bahia 2
+    Bahia 2 - 0 . Arcos: 5
+Deposito
+0 - 1260
+Distancia 60
+Cliente
+540 - 660
+Distancia 60
+Cliente
+1020 - 1140
+Distancia 540
+Cliente
+540 - 660
+Distancia 60
+Cliente
+1020 - 1140
+Distancia 540
+    Bahia 2 - 1 . Arcos: 2
+Cliente
+1020 - 1140
+Distancia 60
+Cliente
+1020 - 1140
+Distancia 60
+Clientes 
+  Clientes0
+    Cliente0 - 0 Arcos 4
+Bahia
+480 - 720
+Distancia 15
+Bahia
+960 - 1200
+Distancia 420
+Bahia
+480 - 720
+Distancia 15
+Bahia
+960 - 1200
+Distancia 420
+    Cliente0 - 1 Arcos 2
+Bahia
+960 - 1200
+Distancia 15
+Bahia
+960 - 1200
+Distancia 15
+  Clientes1
+    Cliente1 - 0 Arcos 2
+Bahia
+480 - 720
+Distancia 15
+Bahia
+960 - 1200
+Distancia 420
+    Cliente1 - 1 Arcos 1
+Bahia
+960 - 1200
+Distancia 15
+  Clientes2
+    Cliente2 - 0 Arcos 4
+Bahia
+480 - 720
+Distancia 15
+Bahia
+960 - 1200
+Distancia 420
+Bahia
+480 - 720
+Distancia 15
+Bahia
+960 - 1200
+Distancia 420
+    Cliente2 - 1 Arcos 2
+Bahia
+960 - 1200
+Distancia 15
+Bahia
+960 - 1200
+Distancia 15
