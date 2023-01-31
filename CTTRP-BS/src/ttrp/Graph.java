@@ -60,7 +60,7 @@ public class Graph extends Path{
     */
     public void Creat_Depots() throws FileNotFoundException, IOException
     {
-        BufferedReader in = new BufferedReader(new FileReader(path + "Deposito.txt"));
+        BufferedReader in = new BufferedReader(new FileReader(path + "Depot.txt"));
         int i, j, id;
         int[] tw;
         String[] aux;
@@ -80,7 +80,7 @@ public class Graph extends Path{
         }
         in.close();
         //================== Read vehicle information
-        in = new BufferedReader(new FileReader(path + "Vehiculos.txt"));
+        in = new BufferedReader(new FileReader(path + "Vehicles.txt"));
             
         Vehicle Vh;
         int n_v = Integer.parseInt(in.readLine()), k;
@@ -107,7 +107,7 @@ public class Graph extends Path{
     */
     public void Creat_Bays() throws FileNotFoundException, IOException
     {
-        try (BufferedReader in = new BufferedReader(new FileReader(path + "Bahia.txt"))) 
+        try (BufferedReader in = new BufferedReader(new FileReader(path + "Bays.txt"))) 
         {
             int i, j, cap;
             int[] tw;
@@ -137,7 +137,7 @@ public class Graph extends Path{
     */
     public void Creat_Clients() throws FileNotFoundException, IOException
     {
-        try (BufferedReader in = new BufferedReader(new FileReader(path + "Clientes.txt"))) 
+        try (BufferedReader in = new BufferedReader(new FileReader(path + "Clients.txt"))) 
         {
             int i, j;
             int[] tw;
@@ -163,7 +163,7 @@ public class Graph extends Path{
     */
     public void Read_Edges_D() throws FileNotFoundException, IOException
     {
-        try (BufferedReader in = new BufferedReader(new FileReader(path + "Arcos_M_Dep.txt"))) 
+        try (BufferedReader in = new BufferedReader(new FileReader(path + "Edges_M_Dep.txt"))) 
         {
             int i,j, len;
             Edge ar;
@@ -193,7 +193,7 @@ public class Graph extends Path{
     */
     public void Read_Edges_B() throws FileNotFoundException, IOException
     {
-        try (BufferedReader in = new BufferedReader(new FileReader(path + "Arcos_M_Ba.txt"))) 
+        try (BufferedReader in = new BufferedReader(new FileReader(path + "Edges_M_Ba.txt"))) 
         {
             int i,j, len;
             Edge ar;
@@ -266,7 +266,7 @@ public class Graph extends Path{
     */
     public void Read_Edges_M_C() throws FileNotFoundException, IOException
     {
-        BufferedReader in = new BufferedReader(new FileReader(path + "Arcos_M_Cl.txt"));
+        BufferedReader in = new BufferedReader(new FileReader(path + "Edges_M_Cl.txt"));
         int i,j, len;
         Edge ar;
         String line;
